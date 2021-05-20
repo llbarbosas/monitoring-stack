@@ -40,6 +40,10 @@ This is my current setup for that purpose, that consists on the following elemen
 
 ### Usage
 
+- Setup .env file
+  ```bash
+  cp .env.example .env
+  ```
 - Start services
   ```bash
   docker-compose up
